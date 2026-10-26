@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+bot_log.txt
+config.json
+calib_check.png
+debug*/
+record/
